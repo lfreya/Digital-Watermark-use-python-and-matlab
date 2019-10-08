@@ -8,6 +8,7 @@ when DCT process RGB image,firstly, make RGB to grey, so embed grey image better
 
 # STEP
 You can run the file 'main.py' to start the project.
+
 1.choose carrier image and message image
 
 2.choose attack method
